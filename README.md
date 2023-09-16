@@ -2,7 +2,7 @@
 
 ## Workshops in Web Dev1
 
-![Workshop in Web Dev](_readme/Workshop-in-Web-Dev1 .jpg )
+![Workshop in Web Dev](_readme/Workshop-in-Web-Dev1.jpg )
 
 ### Hi there
 
