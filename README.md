@@ -41,7 +41,7 @@ Git, Github, Gitlab
 > You must score above 80%
 
 
-### Code Sample (C#)
+### Code Sample (Github)
 ```
 git init
 git status
