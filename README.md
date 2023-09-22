@@ -4,6 +4,8 @@
 
 ![Workshop in Web Dev](_readme/Workshop-in-Web-Dev1.jpg )
 
+![Humber Logos](_readme/logo-humber.png)  (_readme/logo1-humber.png)  (_readme/logo-bricks-humber.png)  
+
 ### Hi there
 
 ## Description
