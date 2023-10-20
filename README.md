@@ -4,6 +4,8 @@
 
 ![Workshop in Web Dev](_readme/Workshop-in-Web-Dev1.jpg )
 
+<img src="_readme/logo-humber.png" width="250">  ![Tesst](_readme/logo1-humber.png)  ![Test](_readme/logo-bricks-humber.png)  
+
 ### Hi there
 
 ## Description
@@ -41,7 +43,7 @@ Git, Github, Gitlab
 > You must score above 80%
 
 
-### Code Sample (C#)
+### Code Sample (Github)
 ```
 git init
 git status
