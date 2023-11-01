@@ -4,7 +4,7 @@
 
 ![Workshop in Web Dev](_readme/Workshop-in-Web-Dev1.jpg )
 
-<img src="_readme/logo-humber.png" width="250">  ![Tesst](_readme/logo1-humber.png)  ![Test](_readme/logo-bricks-humber.png)  
+<img src="_readme/logo-humber.png" width="250">  ![Tesst](_readme/logo1-humber.png) 
 
 ### Hi there
 
@@ -53,3 +53,4 @@ git commit -am "your comment"
 git push origin master
 
 ```
+![Alt](https://repobeats.axiom.co/api/embed/2af2ba0edb59c09c1b969058dea4689c957d8218.svg "bit platform open source contributions report")
